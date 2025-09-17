@@ -14,7 +14,7 @@ To enhance the dataset quality, **image preprocessing techniques** are applied, 
 
 The model is then trained by specifying values such as **batch size** and **number of epochs**. Finally, the **trained model** is saved for future use in **vehicle number plate detection tasks**.
 
-In the Additional project I have built an **Retrieval-Augmented Generation (RAG)** system powered by the **Llama 2**. In this system, users can upload PDFs or other documents and interact with it by asking questions. The model first retrieves the most relevant information from the uploaded content and then generates accurate, **context-aware responses**.
+In the **Additional project**, I have built an **Retrieval-Augmented Generation (RAG)** system powered by the **Llama 2**. In this system, users can upload PDFs or other documents and interact with it by asking questions. The model first retrieves the most relevant information from the uploaded content and then generates accurate, **context-aware responses**.
 
 This approach enhances the model’s ability to provide **precise answers** that are directly grounded in the user’s data rather than relying solely on pre-trained knowledge.
 
